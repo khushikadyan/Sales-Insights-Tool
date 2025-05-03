@@ -23,6 +23,11 @@ A Streamlit-powered web app that automatically analyzes sales data from CSV/Exce
 - **Visualization**: Matplotlib
 - **Deployment**: Docker/Heroku ready
 
+##  ScreenShots
+ ![image](https://github.com/user-attachments/assets/2b8d7dda-ed29-42ba-a16a-be751bb3f5a3)
+
+ ![image](https://github.com/user-attachments/assets/6cc456dd-4df5-4f0c-b49f-0ed116adb465)
+
 ## Quick Start
 
 1. **Install dependencies**:
