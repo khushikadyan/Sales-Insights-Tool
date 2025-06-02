@@ -13,7 +13,7 @@ A Streamlit-powered web app that automatically analyzes sales data from CSV/Exce
   - Correlation analysis (scatter plots)
 - **Smart Filters**: Date range selection
 - **Key Metrics**: Total sales, average, record count
-- **Responsive Design**: Works on desktop and mobile
+- **Responsive Design**: Works on desktop and tablets,mobiles
 
 ##  Tech Stack
 
