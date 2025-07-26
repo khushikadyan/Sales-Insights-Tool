@@ -1,19 +1,21 @@
 # 📊 Sales Insights Tool
 
-A Streamlit-powered web app that automatically analyzes sales data from CSV/Excel files and generates interactive visualizations. No manual column mapping required!
+A Streamlit-powered web Tool that automatically analyzes sales data from CSV/Excel files and generates interactive visualizations and insights. No manual column mapping required!
+**Transform raw sales data into actionable insights in seconds.**  
+A zero-config, browser-side analytics dashboard built with Streamlit.
 
+Live DEMO - https://sales-insights-tool-ctcrplqerjtg4y54urgqtq.streamlit.app/
 
 ##  Features
 
-- **Universal Data Compatibility**: Works with any CSV/Excel sales data
-- **Auto-Detection** of date, numeric, and categorical columns
-- **Interactive Visualizations**:
-  - Monthly trends (line charts)
-  - Top performers (bar charts)
-  - Correlation analysis (scatter plots)
-- **Smart Filters**: Date range selection
-- **Key Metrics**: Total sales, average, record count
-- **Responsive Design**: Works on desktop and tablets,mobiles
+| Feature | Description |
+|---------|-------------|
+| 🔍 **Auto-Detection** | Detects dates, numbers & categories automatically |
+| 📈 **Multi-Chart Trends** | Daily, monthly, rolling, seasonality  |
+| 📁 **CSV / Excel** | Drag-and-drop or browse (≤ 50 MB) |
+| 🔒 **Privacy First** | 100 % client-side—**no data leaves your browser** |
+| 📥 **One-Click Export** | PNG + Excel bundle (ZIP) |
+
 
 ##  Tech Stack
 
@@ -24,22 +26,26 @@ A Streamlit-powered web app that automatically analyzes sales data from CSV/Exce
 - **Deployment**: Docker/Heroku ready
 
 ##  ScreenShots
- ![image](https://github.com/user-attachments/assets/2b8d7dda-ed29-42ba-a16a-be751bb3f5a3)
+<img width="1893" height="793" alt="image" src="https://github.com/user-attachments/assets/9a124b0a-bc08-49d1-a27d-fad2603de552" />
 
  ![image](https://github.com/user-attachments/assets/6cc456dd-4df5-4f0c-b49f-0ed116adb465)
 
 ## Quick Start
 
-1. **Install dependencies**:
+1. **Clone** the repo  
+   ```bash
+   git clone https://github.com/<your-username>/sales-insights-tool.git
+   cd sales-insights-tool
+
+2. **Install dependencies**:
    ```bash
    pip install streamlit pandas matplotlib
    ```
-2. **Run the app**
-
+3. **Run the app**
 ```bash
 streamlit run app.py
 ```
-3. **Upload your sales data (CSV/Excel) and explore insights!**
+4. **Upload your sales data (CSV/Excel) and explore insights!**
 
 ## How to Contribute
 
@@ -51,3 +57,6 @@ streamlit run app.py
 
 ## This project originally belongs to-
 -------Khushi Kadyan
+
+
+
