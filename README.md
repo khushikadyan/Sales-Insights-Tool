@@ -23,7 +23,7 @@ Live DEMO - https://sales-insights-tool-ctcrplqerjtg4y54urgqtq.streamlit.app/
 - **Backend**: Python
 - **Data Processing**: Pandas
 - **Visualization**: Matplotlib
-- **Deployment**: Docker/Heroku ready
+- **Deployment**: Streamlit Community Cloud
 
 ##  ScreenShots
 <img width="1893" height="793" alt="image" src="https://github.com/user-attachments/assets/9a124b0a-bc08-49d1-a27d-fad2603de552" />
