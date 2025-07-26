@@ -28,7 +28,6 @@ Live DEMO - https://sales-insights-tool-ctcrplqerjtg4y54urgqtq.streamlit.app/
 ##  ScreenShots
 <img width="1893" height="793" alt="image" src="https://github.com/user-attachments/assets/9a124b0a-bc08-49d1-a27d-fad2603de552" />
 
- ![image](https://github.com/user-attachments/assets/6cc456dd-4df5-4f0c-b49f-0ed116adb465)
 
 ## Quick Start
 
