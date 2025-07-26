@@ -55,7 +55,8 @@ streamlit run app.py
 - 5.Open a Pull Request
 
 ## This project originally belongs to-
--------Khushi Kadyan
+Khushi Kadyan
+B.Tech CSE (DSAI)
 
 
 
