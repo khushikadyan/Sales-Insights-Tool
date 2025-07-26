@@ -70,7 +70,7 @@ def show_landing():
     st.markdown(
         """
         <footer>
-            <p>Built with ❤️ using Streamlit | © 2024</p>
+            <p>Khushi Kadyan</p>
         </footer>
         """,
         unsafe_allow_html=True,
