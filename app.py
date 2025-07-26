@@ -5,6 +5,8 @@ from ui.layout import main_ui
 from ui.styles import apply_custom_styles
 from logic.data_processing import process_data
 from logic.visualization import generate_visualizations, prepare_visualizations_export
+import os
+st.write(os.listdir('.'))
 
 def render_analysis_page():
     """Handle the analysis page with all its functionality"""
