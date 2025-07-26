@@ -13,7 +13,7 @@ def show_landing():
         # Hero text content
         st.markdown("""
         <div class="hero-text">
-            <h1 class="hero-title">Sales Insights Pro</h1>
+            <h1 class="hero-title">Sales Data Insights Tool</h1>
             <p class="hero-subtitle">
                 Transform raw sales data into clear, actionable insights in seconds.<br>
                 No setup required. No data leaves your browser.
